@@ -31,13 +31,13 @@ Implements global state management in a Single Page Application using React Cont
 ## Screenshot
 Light Mode
 
-<img width="1024" height="904" alt="image" src="https://github.com/user-attachments/assets/95b6aaa3-e141-4adb-a9b4-414b83b6f30e" />
+<img width="400" height="904" alt="image" src="https://github.com/user-attachments/assets/95b6aaa3-e141-4adb-a9b4-414b83b6f30e" />
 
 
 
 Dark Mode
 
-<img width="1024" height="904" alt="image" src="https://github.com/user-attachments/assets/f4345334-4500-4cfb-ad0d-a369e04096ac" />
+<img width="400" height="904" alt="image" src="https://github.com/user-attachments/assets/f4345334-4500-4cfb-ad0d-a369e04096ac" />
 
 
 
